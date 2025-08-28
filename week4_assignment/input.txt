@@ -1,0 +1,3 @@
+Hello, this is my file.
+It contains some sample text.
+Let’s see how Python reads and modifies it!
